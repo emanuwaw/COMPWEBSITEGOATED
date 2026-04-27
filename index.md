@@ -10,26 +10,26 @@ layout: default
 
 ## Figures
 
-<img src="images/full.jpg" width="300">
+<img src="images/full.png" width="300">
 
 Figure 1: Total counts of Pace Rating
 
-<img src="images/notes.jpg" width="300">
+<img src="images/notes.png" width="300">
 
 Figure 2: Coorelation of Note Taking and Pace perception
 
-<img src="images/stem.jpg" width="300">
-<img src="images/humanities.jpg" width="300">
+<img src="images/stem.png" width="300">
+<img src="images/humanities.png" width="300">
 
 Figure 3: STEM vs Humanities Pace Perception
 
 ## Results
 
-Figure 1 shows
+Most students rated the class pace around 4–5, showing it is generally seen as moderate. Some students did chose extreme ratings.
 
-Figure 2 shows
+Note-taking does not appear to have a strong effect, as both groups show similar distributions centered around 4–5.
 
-Figure 3 shows
+STEM students highest quantity for rating was 4, while humanities students most often rated it as 5, suggesting humanities students see the class as slightly faster. Overall, differences are small and most responses stack in the middle.
 
 ## Conclusion
 
