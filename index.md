@@ -6,7 +6,7 @@ layout: default
 # Analyzing COMP 110 Course Pacing Data
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="https://thumbs.dreamstime.com/b/emoticon-big-toothy-smile-showing-thumbs-up-137775357.jpg" alt="We are so Happy "  width="500"/>
 
 ## Figures
 
