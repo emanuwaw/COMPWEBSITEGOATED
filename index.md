@@ -10,17 +10,16 @@ layout: default
 
 ## Figures
 
-<img src="![My Photo](images/full.jpg)" alt="Figure 1 "  width="300"/>
+<img src="images/full.jpg" width="300">
 
 Figure 1: Total counts of Pace Rating
 
-<img src="![My Photo](images/notes.jpg)" alt="Figure 1 "  width="300"/>
+<img src="images/notes.jpg" width="300">
 
 Figure 2: Coorelation of Note Taking and Pace perception
 
-<img src="![My Photo](images/stem.jpg)" alt="Figure 1 "  width="300"/>
-
-<img src="![My Photo](images/humanities.jpg)" alt="Figure 1 "  width="300"/>
+<img src="images/stem.jpg" width="300">
+<img src="images/humanities.jpg" width="300">
 
 Figure 3: STEM vs Humanities Pace Perception
 
